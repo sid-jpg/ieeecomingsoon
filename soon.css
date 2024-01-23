@@ -17,7 +17,7 @@ html {
 }
 
 h1 {
-    font-size: 235%;
+    font-size: 280%;
     margin: 10px 0 0 0;
     font-weight: lighter;
     font-family: 'akibal mono', monospace;
@@ -26,14 +26,14 @@ h1 {
 }
 
 p {
-    font-size: 85%;
+    font-size: 90%;
     font-weight: light;
     font-family: 'akibal mono', monospace;
     color: #7FC7D9;
 }
 
 span a {
-    font-size: 18px;
+    font-size: 90%;
     color: #7FC7D9;
     text-decoration: none;
     margin: 0 10px;
@@ -96,18 +96,3 @@ span a {
     font-size: 1.2rem;
 }
 
-.suppoprt-me {
-    display: inline-block;
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    width: 20vw;
-    max-width: 250px;
-    min-width: 200px;
-    z-index: 9;
-
-    img {
-        width: 100%;
-        height: auto;
-    }
-}
